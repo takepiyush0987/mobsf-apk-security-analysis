@@ -1,2 +1,13 @@
-# mobsf-apk-security-analysis
-Android APK security analysis using MobSF for educational and cybersecurity learning purposes.
+# MobSF InsecureBank Analysis
+
+Static security analysis of the InsecureBank APK using MobSF.
+
+## Findings
+- Exported Activities
+- Hardcoded Secrets
+- Insecure Permissions
+- Weak Security Configurations
+
+## Tools Used
+- MobSF
+- Android Security Testing
